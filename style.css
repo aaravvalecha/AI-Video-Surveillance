@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size: 18px;
+}
+.start{
+    width: 90px;
+    font-size: 15px;
+}
+.footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(165, 98, 98);
+text-align: center;
+font-family: cursive;
+color:white;
+line-height: 2;
+
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 40px;
+    margin-top: 75px;
+    
+}
